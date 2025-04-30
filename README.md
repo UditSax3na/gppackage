@@ -35,7 +35,7 @@ pip install .
 ```
 Or for development use (recommended if you plan to modify the code):
 ```bash
-pip install -e .
+pip install -e . --use-pep517
 ```
 This will make the gp command available globally in your terminal.
 
