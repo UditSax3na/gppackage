@@ -121,4 +121,4 @@ The generated main file includes basic error tracking:
 ---
 
 ## Author
-Made By [UditSax3na](github.com/UditSax3na)
+Made By [UditSax3na](https://github.com/UditSax3na)
