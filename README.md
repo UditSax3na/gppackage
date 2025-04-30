@@ -20,7 +20,7 @@
 
 ---
 ## Setps to setup this package
-### 1.Clone the Repository
+### 1. Clone the Repository
 First, clone the repository to your system:
 ```bash
 git clone https://github.com/UditSax3na/gppackage.git
@@ -98,7 +98,7 @@ myapp/
 ├── config/
 │   └── path.py
 ├── core/
-   └── zero.py
+│   └── zero.py
 ├── __init__.py
 ├── __main__.py
 └── README.md
