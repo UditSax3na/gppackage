@@ -4,7 +4,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_DIR = ROOT / 'config'
 CORE_DIR = ROOT / 'core'
-LOG_DIR = ROOT / 'log'
+LOG_DIR = ROOT / 'logs'
 
 # Files
 LOG_FILE = LOG_DIR / 'log.txt'
